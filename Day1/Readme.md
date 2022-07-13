@@ -30,7 +30,9 @@ Types of Machine Learning:
 
 
 ### Homework:
+
 Q1. Unique ML example in real life.
+
 Q2. Study Numpy Library.
 
 
