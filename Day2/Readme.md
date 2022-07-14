@@ -17,3 +17,16 @@ Topics:
 2.Numpy
 
 3.Pandas
+
+
+Homework:
+
+Q1. Complete the Given example.
+
+
+Q2. Design an application to analyse the students score card.
+
+	Parameter: Studentid, Studentname, Subject marks for 4 subjects, and percentage.
+	
+	
+Q3. Analyse the data for Mercedesbenz Application.
