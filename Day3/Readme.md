@@ -1,7 +1,9 @@
 
 ### Day 3: Data Pre-processing
-=================================================
+===============================
+
 Date: 15/07/2022
+
 Topics:
 ------------------
 	-Data
@@ -14,42 +16,42 @@ Topics:
 Homework:
 -------------
 
-Q1. Perform Data Preprocessing and EDA on Mercedesbenz dataset.
+	Q1. Perform Data Preprocessing and EDA on Mercedesbenz dataset.
 
-Q2. Perform Data Preprocessing and EDA on VgsalesGlobale dataset.
+	Q2. Perform Data Preprocessing and EDA on VgsalesGlobale dataset.
 
 Interview Questions:
 ---------------------
 
-1.What is Data?
+	1.What is Data?
 
-2. What is information?
+	2. What is information?
 
-3. What is Raw data?
+	3. What is Raw data?
 
-4. What is Dataset?
+	4. What is Dataset?
 
-5. Why do we need pre-processing of data?
+	5. Why do we need pre-processing of data?
 
-6. What are major tasks in data pre-processing?
+	6. What are major tasks in data pre-processing?
 
-7. What is noisy data?
- 
-8. How to handle noisy data?
- 
-9. What is missing value?
- 
-10. How to handle missing data?
- 
-11. List the tools for data pre-processing
- 
-12. What do you mean by data cleaning?
- 
-13. What is Data Preprocessing? What preprocessing steps do you know?   
+	7. What is noisy data?
 
-14. What is the difference between Data Processing and Data Mining?  Related To: Data Mining
+	8. How to handle noisy data?
 
-15. What is Data Binning?  
+	9. What is missing value?
 
-16. What's the difference between Feature Engineering vs. Feature Selection? 
+	10. How to handle missing data?
+
+	11. List the tools for data pre-processing
+
+	12. What do you mean by data cleaning?
+
+	13. What is Data Preprocessing? What preprocessing steps do you know?   
+
+	14. What is the difference between Data Processing and Data Mining?  Related To: Data Mining
+
+	15. What is Data Binning?  
+
+	16. What's the difference between Feature Engineering vs. Feature Selection? 
 
